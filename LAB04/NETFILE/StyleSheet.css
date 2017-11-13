@@ -1,0 +1,10 @@
+﻿body {
+
+    background-image : url(old-white-background.jpg);
+    table-layout : fixed;
+    font-family : 'Courier New';
+    font : bold;
+    border : 5px double black;
+    font-weight : bold;
+}
+
